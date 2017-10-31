@@ -1,3 +1,8 @@
+#### Name: [Bhavesh Devjani](https://github.com/bhaveshgg17)
+- Place: Jaipur, India
+- Bio: Computer Science engineer
+- GitHub: [bhaveshgg17](https://github.com/bhaveshgg17)
+
 #### Name: [Akshat Sinha](https://github.com/akshatgit)
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
